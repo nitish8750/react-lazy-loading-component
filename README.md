@@ -1,2 +1,2 @@
-# react-lazy-loading-component
+# react-scrollspy
 Created with CodeSandbox
